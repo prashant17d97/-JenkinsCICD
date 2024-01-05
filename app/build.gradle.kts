@@ -109,7 +109,4 @@ dependencies {
     debugImplementation(libs.ui.tooling)
     debugImplementation(libs.ui.test.manifest)
 
-    implementation( libs.appcenter.analytics)
-    implementation( libs.appcenter.crashes)
-
 }
